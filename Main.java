@@ -3,11 +3,11 @@ public class Project {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello people");
+        System.out.println("Quanta");
 
-        System.out.println(isPalindrome("Здравствуйте"));
+        System.out.println(isPalindrome("Hi"));
 
-        System.out.println(isPalindrome("ого"));
+        System.out.println(isPalindrome("My"));
 
         for (int i = 0; i < 300; i++) {
 
